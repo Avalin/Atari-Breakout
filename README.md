@@ -10,7 +10,7 @@ Works with Unity 2020.1.8f1. This project uses rewired for input controls.
 ## Download and Installation
 To get this project:
 
-* Clone the repo: `git clone https://github.com/Avalin/atari_breakout.git`
+* Clone the repo: `git clone https://github.com/Avalin/unity_atari_breakout.git`
 
 That's it.
 
