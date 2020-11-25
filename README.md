@@ -1,5 +1,5 @@
 # Atari Breakout
 ## Preview
 <p align="center">
-  <img width="400" height="400" src="atari_breakout.png">
+  <img width="401" height="341" src="atari_breakout.PNG">
 </p>
